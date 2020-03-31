@@ -5,5 +5,7 @@ def sum_of_multiples(n):
 
 def test():
 	assert sum_of_multiples(10) == 23
+	
+print("Hello world")
 
 test()
