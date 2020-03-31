@@ -7,5 +7,6 @@ def test():
 	assert sum_of_multiples(10) == 23
 	
 print("Hello world")
+print("I am also printing online")
 
 test()
